@@ -6,6 +6,7 @@ Setup:
     servo0.set_speed(speed);
     servo1.set_speed(speed);
   } 
+  
 Part1: 	
 In this part, I first measure the car’s speed and the time we need to go to the parking lot. And, I use the RPC function (/RP/run d1 d2 P )to determine the distance between the BBCAR and the parking lot.
  
